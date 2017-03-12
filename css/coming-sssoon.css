@@ -709,6 +709,11 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     top: 20px;
      z-index: 3;
 }
+
+.image-container{
+    max-width: 65%;
+}
+
 .logo-container .logo{
     overflow: hidden;
     border-radius: 50%;
